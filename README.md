@@ -1,0 +1,1 @@
+# git_camp_public
